@@ -23,6 +23,8 @@ modules:
       - type: archive
         url: http://downloads.sourceforge.net/lgeneral/lgeneral-1.4.4.tar.gz
         sha256: 0a26b495716cdcab63b49a294ba31649bc0abe74ce0df48276e52f4a6f323a95
+      - type: patch
+        path: fix-desktop-file.patch
       - type: shell
         commands:
           - cp -p /usr/share/automake-*/config.{sub,guess} .

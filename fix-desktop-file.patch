@@ -1,0 +1,25 @@
+From 65883ef128770527913fa005e6e2c81d91d9eb51 Mon Sep 17 00:00:00 2001
+From: Sabri Ünal <yakushabb@gmail.com>
+Date: Sat, 3 Jan 2026 20:12:16 +0300
+Subject: [PATCH] Fix desktop file
+
+---
+ lgeneral.desktop | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/lgeneral.desktop b/lgeneral.desktop
+index 679926d..c9bbcfe 100644
+--- a/lgeneral.desktop
++++ b/lgeneral.desktop
+@@ -1,7 +1,7 @@
+ [Desktop Entry]
+ Name=LGeneral
+ Comment=LGeneral is a turn-based strategy engine heavily inspired by Panzer General
+-Comment[de]=LGeneral ist eine rundenbasierte Engine f�r Strategiespiele und wurde stark von Panzer General inspiriert
++Comment[de]=LGeneral ist eine rundenbasierte Engine für Strategiespiele und wurde stark von Panzer General inspiriert
+ Exec=lgeneral
+ Icon=lgeneral
+ Type=Application
+--
+libgit2 1.7.2
+
