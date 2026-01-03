@@ -1,6 +1,6 @@
 app-id: net.sourceforge.lgames.LGeneral
 runtime: org.freedesktop.Platform
-runtime-version: '21.08'
+runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 rename-desktop-file: lgeneral.desktop
 rename-icon: lgeneral
