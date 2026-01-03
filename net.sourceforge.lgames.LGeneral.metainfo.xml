@@ -25,7 +25,7 @@
   <url type="bugtracker">https://sourceforge.net/p/lgames/bugs/</url>
   <url type="contact">https://lgames.sourceforge.io/contact.php</url>
   <url type="donation">https://lgames.sourceforge.io/donate.php</url>
-  <url type="vcs-browser">https://lgames.sourceforge.io/LGeneral/</url>
+  <url type="vcs-browser">https://sourceforge.net/p/lgeneral/code/HEAD/tree/</url>
   <content_rating type="oars-1.1">
     <content_attribute id="violence-fantasy">moderate</content_attribute>
   </content_rating>
